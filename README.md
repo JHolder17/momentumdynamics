@@ -6,7 +6,7 @@ The project allows a user to simulate races between 2 to 10 different 'racers' a
 - development  
 $ npm run start  
 
-- watch mode
+- watch mode  
 $ npm run start:dev
 
 - production mode

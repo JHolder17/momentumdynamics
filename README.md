@@ -9,12 +9,12 @@ $ npm run start
 - watch mode  
 $ npm run start:dev
 
-- production mode
+- production mode  
 $ npm run start:prod
 
 ### To start the frontend: port 3001
-- development
+- development  
 $ npm run
 
-- create an optamized build
+- create an optamized build  
 $ npm run build

@@ -36,7 +36,7 @@ export default class RaceNavbar extends React.Component {
                 <NavLink tag={Link} to='/raceresults'>Race Results</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+                <NavLink href="https://github.com/JHolder17/momentumdynamics">GitHub</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
